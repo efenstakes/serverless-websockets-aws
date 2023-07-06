@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "d": "sls deploy"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1409.0",
+    "mongoose": "^7.3.1",
+    "yup": "^1.2.0"
+  }
+}
